@@ -10,8 +10,8 @@ This only post on peoples wall, it can't send them messages.
 
 ### Main Requirements
 * Python 3
-* [Selenium] (http://selenium-python.readthedocs.io/)
-* [Gecko Driver] (https://github.com/mozilla/geckodriver/releases)
+* [Selenium](http://selenium-python.readthedocs.io/)
+* [Gecko Driver](https://github.com/mozilla/geckodriver/releases)
 
 ### Config
 1. Configure facebook username and password in main.py
